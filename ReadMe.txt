@@ -1,0 +1,1 @@
+﻿Esri中国2013年开发者大会“ArcGIS 10.1 for Desktop扩展开发之路”将做演示示例代码。Demo在基于ArcGIS Desktop10.1&addin_assistant构建。这个示例代码是用来演示如何以Python Add-in方式对ArcMap进行扩展。创建了一个Button，实现了缩放至所选要素的功能。
